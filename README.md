@@ -1,1 +1,2 @@
-# SO23-24
+# Prácticas Sistemas Operativos
+# Curso 2023/2024
